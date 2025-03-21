@@ -39,7 +39,7 @@ export default function WorkExperienceStudy() {
                             <div className="flex items-start space-x-6 transition-all group-hover:translate-x-2">
                                 <Image src="/images/WorkExperience/Mphasis.JPG" alt="Company Logo" width={50} height={50} className="rounded-lg" />
                                 <div>
-                                    <h3 className="text-md font-semibold">Mphais Ltd.</h3>
+                                    <h3 className="text-md font-semibold">Mphasis Ltd.</h3>
                                     <p className="text-sm text-gray-400">Delivery Module Lead (Nov 2019 - Jul 2020) - Bengaluru, India</p>
                                     <p className="text-xs text-gray-300 leading-relaxed mt-2">
                                     At Mphasis, I led the final module delivery for HPE Smart Storage devices, integrating device drivers, data exchange libraries, and third-party tools. I managed a team of three engineers to automate the build process using Python, significantly streamlining product integration. Additionally, I collaborated closely with clients, driving development across the SDLC, including requirement analysis, testing, and code reviews.

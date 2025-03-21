@@ -6,8 +6,6 @@ export default function Navbar() {
       <h1 className="text-xl font-bold">Priya Portfolio</h1>
       <div className="space-x-4">
         <Link href="/">Home</Link>
-        <Link href="/projects">Projects</Link>
-        <Link href="/resume.pdf" download>Resume</Link>
       </div>
     </nav>
   );
